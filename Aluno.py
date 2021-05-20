@@ -5,3 +5,23 @@ class Aluno(Pessoa):
         super().__init__(nome, cpf, data_de_nascimento, email, telefone)
         self.senha = senha
 
+    def assistirAulas(self):
+        pass
+
+    def pagarMensalidade(self):
+        pass
+
+    def escolherCurso(self):
+        pass
+
+    def cancelaMatricula(self):
+        pass
+
+    def login(self):
+        pass
+
+    def cadastro(self):
+        pass
+
+    def cadastroTesteGratis(self):
+        pass
